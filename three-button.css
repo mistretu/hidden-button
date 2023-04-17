@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  button {
+    margin: 0 40px;
+  }
+  
+  
+  #btn1 {
+    background-color: green;
+  }
+  
+  #btn2 {
+    background-color: blue;
+  }
+  
+  #btn3 {
+    background-color: red;
+  }
+  
